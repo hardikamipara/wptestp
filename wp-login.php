@@ -6,7 +6,7 @@
  * and other user handling.
  *
  * @package WordPress
- */ /**Test Update */ 
+ */ /**Test Update */ /**Test Update 2 */ 
 
 /** Make sure that the WordPress bootstrap has run before continuing. */
 require( dirname(__FILE__) . '/wp-load.php' );
